@@ -52,10 +52,3 @@ export const get_country = function (lat, lng) {
     return null;
   }
 };
-
-//   fwk.method(that, "get_country", get_country, _super);
-//   fwk.method(that, "get_us_state", get_us_state, _super);
-
-//   return get_country;
-
-// exports.country_reverse_geocoding = country_reverse_geocoding;
